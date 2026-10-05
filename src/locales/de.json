@@ -1,1 +1,461 @@
-{}
+{
+  "site": {
+    "name": "Dragon Shelter Wiki",
+    "shortName": "Dragon Shelter",
+    "tagline": "Farmen, Drachen, Rezepte & Stadtwiederaufbau",
+    "description": "Dragon Shelter Wiki mit Farmguides, Drachenpflege, Kochrezepten, Basteltipps, Explorationshilfe, Stadtwiederaufbau und den neuesten PC-Spielupdates.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Von Spielern für Spieler gemacht."
+  },
+  "nav": {
+    "home": "Startseite",
+    "menu": "Menü",
+    "toggleTheme": "Design wechseln",
+    "guide": "Guide",
+    "release": "Release",
+    "platforms": "Plattformen",
+    "mechanics": "Mechaniken",
+    "dragons": "Drachen",
+    "community": "Community",
+    "codes": "Codes"
+  },
+  "home": {
+    "meta": {
+      "title": "Dragon Shelter Wiki - Farmen, Drachen & Rezepte",
+      "description": "Dragon Shelter Wiki mit Farmguides, Drachenpflege, Kochrezepten, Basteltipps, Explorationshilfe, Stadtwiederaufbau und den neuesten PC-Spielupdates."
+    },
+    "hero": {
+      "eyebrow": "Gemütlicher Fantasy-Drachen-Farm-Sim",
+      "title": "Dragon Shelter Wiki",
+      "description": "Baue eine vergessene Farm wieder auf, ziehe magische Drachengefährten groß, pflanze Feldfrüchte an, koche verzauberte Mahlzeiten, erkunde Fantasy-Biome und hilf einer tristen Stadt, wieder aufzublühen.",
+      "stats": [
+        "Release am 24. Sep. 2026",
+        "23 Steam-Erfolge",
+        "257 Steam-Reviews",
+        "5 unterstützte Sprachen"
+      ],
+      "primaryCta": "Auf Steam spielen",
+      "secondaryCta": "Anfänger-Guide",
+      "tertiaryCta": "Drachenpflege-Guide",
+      "videoLabel": "Offizielle Medien"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Guides durchsuchen",
+      "viewAll": "Alle anzeigen"
+    },
+    "start": {
+      "eyebrow": "Hier starten",
+      "title": "Deine Dragon-Shelter-Reise",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Anfänger-Guide",
+          "description": "Lerne den zentralen Dragon-Shelter-Überlebenskreislauf: Baue einen stabilen Unterschlupf, verwalte Hunger, Durst und Temperatur und sichere dir Holz, Feuerstein und sauberes Wasser vor deiner ersten Expedition."
+        },
+        {
+          "number": "2",
+          "title": "Farmen & Feldfrüchte",
+          "description": "Pflüge und dünge deine Beete, wechsle schnell wachsende Feldfrüchte wie Sonnenblatt-Weizen ab und lass Wasser- und Erd-Drachen Bewässerung, Pflügen und Bodenanreicherung automatisieren."
+        },
+        {
+          "number": "3",
+          "title": "Drachenzähmung & Pflege",
+          "description": "Spüre den Lebensraum jedes wilden Drachen auf, biete elementar passenden Köder an, versorge seine Verletzungen und begleite ihn nach Hause, um Schmelz-, Bewässerungs- und Wachstumsboni freizuschalten."
+        },
+        {
+          "number": "4",
+          "title": "Basteln & Kochen",
+          "description": "Sammle Rohmaterialien, verbessere Werkbänke und Küchenstationen und koche dann ausdauersteigernde Mahlzeiten und Drachenleckerbissen für längere, produktivere Tage."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Aktuell im Trend",
+      "quickLinks": [
+        "Anfänger-Guide",
+        "Drachentypen",
+        "Farmen",
+        "Kochen"
+      ],
+      "cards": [
+        {
+          "badge": "Anfänger",
+          "title": "Dragon Shelter Anfänger-Guide",
+          "description": "Errichte deinen Unterschlupf, sammle Holz und Feuerstein und zähme deinen ersten Ernte-Drachen.",
+          "href": "/guide/dragon-shelter-beginner-guide"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Alle Dragon Shelter Codes",
+          "description": "Funktionierende Einlösecodes, Belohnungsstufen und Schritt-für-Schritt-Hilfe zum Einlösen.",
+          "href": "/codes/dragon-shelter-codes"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Drachentypen & Fähigkeiten",
+          "description": "Jede elementare Drachenfamilie, ihre Farmspezialität, ihr Lebensraum und ihr Lieblingsfutter.",
+          "href": "/dragons/dragon-shelter-dragon-types"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Dragon Shelter Farm-Guide",
+          "description": "Fruchtfolgen, Bodenmanagement und drachenunterstützte Bewässerung für höhere Erträge.",
+          "href": "/guide/dragon-shelter-farming-guide"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Kochrezepte & Stationen",
+          "description": "Küchenverbesserungen, Beschaffung von Zutaten und ausdauersteigernde Gerichte.",
+          "href": "/guide/dragon-shelter-cooking-guide"
+        },
+        {
+          "badge": "Neu",
+          "title": "Baupläne & Materialien",
+          "description": "Werkbank-Stufen, Veredelungswege und Lebensraumrezepte für dein Heiligtum.",
+          "href": "/mechanics/dragon-shelter-crafting"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist Dragon Shelter?",
+      "paragraphs": [
+        "Dragon Shelter ist ein gemütliches Fantasy-Farm- und Lebenssimulationsspiel von Wild Forest Studio, veröffentlicht von Curve Games. Du baust eine vergessene Farm wieder auf, freundest dich mit magischen Drachengefährten an und ziehst sie groß, pflanzt Feldfrüchte an, kochst verzauberte Mahlzeiten, fertigst Werkzeuge und Lebensräume, erkundest Fantasy-Biome und hilfst einer tristen Stadt, wieder zum Leben zu erwachen.",
+        "Jeder Drache gehört zu einer elementaren Familie mit eigener Farmspezialität: Wasser-Drachen bewässern ganze Felderreihen, Feuer-Drachen befeuern Brennöfen und schmelzen Erz, Erd-Drachen pflügen harten Boden und zerschlagen Felsbrocken, und arkane Glimmerschuppen reinigen verseuchten Boden. Den richtigen Gefährten jeder Arbeitsstation zuzuweisen, verwandelt einen vernachlässigten Hof in ein selbstversorgendes Heiligtum."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "Wild Forest Studio"
+        },
+        {
+          "label": "Publisher",
+          "value": "Curve Games"
+        },
+        {
+          "label": "Plattform",
+          "value": "PC / Steam"
+        },
+        {
+          "label": "Genre",
+          "value": "Gemütlicher Farm-Sim"
+        },
+        {
+          "label": "Release-Datum",
+          "value": "24. Sep. 2026"
+        },
+        {
+          "label": "Steam-Erfolge",
+          "value": "23"
+        }
+      ],
+      "cta": "Anfänger-Guide lesen"
+    },
+    "explore": {
+      "title": "Erkunde das Dragon Shelter Wiki",
+      "description": "Meistere Dragon Shelter mit Farmguides, Tipps zur Drachenpflege, Kochrezepten, Bastelbauplänen, Ressourcenrouten, Explorationshilfe und den neuesten Updates.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Dragon Shelter Anfänger-Guide",
+          "description": "Ein praktischer Einstiegsguide zu den ersten Farmaufgaben, dem Bau des Unterschlupfs, dem Sammeln von Ressourcen, dem Zähmen von Drachen, dem Basteln, Kochen und frühen Stadtaufträgen.",
+          "href": "/guide/dragon-shelter-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Pflanze schnell wachsende Feldfrüchte wie Sonnenblatt-Weizen an, um deine ersten Werkzeug- und Unterschlupfverbesserungen zu finanzieren"
+            },
+            {
+              "label": "2",
+              "detail": "Zähme einen jungen Ernte-Drachen mit passendem Futter, bevor du gefährliche Zonen erkundest"
+            },
+            {
+              "label": "3",
+              "detail": "Baue eine Werkstatt, Vorratskisten und eine Feuerstelle, bevor nächtliche Bedrohungen eintreffen"
+            },
+            {
+              "label": "4",
+              "detail": "Erfülle Stadtaushänge für Münzen, Baupläne und das Vertrauen der Dorfbewohner"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Dragon Shelter Drachen-Guide",
+          "description": "Ein eigener Guide zu den Drachengefährten, der ihre elementaren Fähigkeiten, Farmunterstützung, Lebensraumbedürfnisse und Bindungsvoraussetzungen bewertet.",
+          "href": "/dragons/dragon-shelter-dragon-types",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Glimmerschuppe - reinigt verseuchten Boden und erhöht die Mutationsrate von Feldfrüchten"
+            },
+            {
+              "label": "A",
+              "detail": "Dornenspross - beschleunigt die Reifung von Pflanzen und pflügt harte Erde"
+            },
+            {
+              "label": "B",
+              "detail": "Rußwyrmling - befeuert Brennöfen, schmelzt Erz und rodet trockenes Gestrüpp"
+            },
+            {
+              "label": "C",
+              "detail": "Pfützendrache - automatisiert die Bewässerung mehrerer Felderreihen und öffnet Wasserwege"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Dragon Shelter Farm-Guide",
+          "description": "Ein farmorientierter Abschnitt über Bodenvorbereitung, Fruchtfolge, Saisonplanung und darüber, wie Drachenfähigkeiten die tägliche Farmarbeit unterstützen.",
+          "href": "/guide/dragon-shelter-farming-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Pflüge verdichtete Erde um und verteile Kompost oder elementare Asche, um die Bodenfruchtbarkeit zu erhöhen"
+            },
+            {
+              "label": "2",
+              "detail": "Gieße morgens und abends oder weise einen Wasser-Drachen zu, der die umliegenden Felder bewässert"
+            },
+            {
+              "label": "3",
+              "detail": "Wechsle schnell wachsende Grundnahrungsmittel wie Sonnenblatt-Weizen mit wertvollen Sternenblüten-Ernten ab"
+            },
+            {
+              "label": "4",
+              "detail": "Erneuere den Boden nach zwei intensiven Pflanzzyklen mit einer Gründüngung"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Dragon Shelter Kochrezepte",
+          "description": "Eine Rezept- und Stationsreferenz zu Zutaten, Küchenverbesserungen, Ausdauerbuffs und den Drachenleckerbissen für die Bindung.",
+          "href": "/guide/dragon-shelter-cooking-guide",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Lagerfeuerstelle",
+              "detail": "15 Stein und 10 Holz - einfache Geröstete Beeren, Gegrillter Fisch und Gekochte Knollen."
+            },
+            {
+              "label": "Stein-Backofen",
+              "detail": "40 gehärteter Lehm, 20 Stein, 2 Bronzebarren - backt Kräuterbrot, Honigtörtchen und herzhafte Töpfe."
+            },
+            {
+              "label": "Eisenkochfeld",
+              "detail": "15 Eisenbarren, 10 glatter Stein, 1 Drachenglut - köchelt Dracheneintopf und Stärkende Brühe."
+            },
+            {
+              "label": "Alchemistischer Kessel",
+              "detail": "8 Kupferbarren, 4 Mystischer Saft, 2 Funkelsteine - mischt Flammenhäppchen und Gletscherpuddings."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Dragon Shelter Bastel-Guide",
+          "description": "Eine Bastelreferenz zu Werkbank-Stufen, Materialveredelung, Stationsbrennstoff und den Lebensraumrezepten, die du zum Ausbau deines Heiligtums brauchst.",
+          "href": "/mechanics/dragon-shelter-crafting",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Werkbank",
+              "detail": "Die einfache Werkbank fertigt nach der Tutorial-Quest grobe Bretter, Steinwerkzeuge und einfache Zäune."
+            },
+            {
+              "label": "Kohlenmeiler",
+              "detail": "Der Holzkohlemeiler verbrennt Hartholzscheite zu Brennstoff und brennt Keramikfliesen für spätere Bauten."
+            },
+            {
+              "label": "Schmelzofen",
+              "detail": "Die Rennfeuer und der Schmelzofen verwandeln Kupfer-, Eisen- und Golderz in nutzbare Barren."
+            },
+            {
+              "label": "Destillierkolben",
+              "detail": "Der Kräuterkolben braut Heilsalben und elementar anreichernde Drachenleckerbissen."
+            },
+            {
+              "label": "Webstuhl",
+              "detail": "Der verzauberte Webstuhl webt isolierte Bettwäsche, Geschirrwickel und Wetterplanen."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Dragon Shelter Ressourcen-Guide",
+          "description": "Eine praktische Ressourcenreferenz mit wichtigen Materialien, ihren Fundorten und ihrer Bedeutung für Farmen, Kochen, Basteln und Wiederaufbau.",
+          "href": "/guide/dragon-shelter-tips",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Holz",
+              "detail": "Hartholz- und Weichholzstämme werden an Oberflächenvorkommen gefällt und zu Brettern und Holzkohle verarbeitet."
+            },
+            {
+              "label": "Erz",
+              "detail": "Kupfer-, Eisen- und Golderz erfordern verbesserte Spitzhacken und sind Grundlage jedes Schmelzrezepts."
+            },
+            {
+              "label": "Flora",
+              "detail": "Gesammelte Kräuter, Beeren und mystischer Saft versorgen Kochen, Alchemie und Drachenleckerbissen."
+            },
+            {
+              "label": "Drakonisch",
+              "detail": "Abgeworfene Schuppen, geschmolzene Glut und Wyrmdrüsen stammen von gepflegten Drachen und dienen der Herstellung von Pflegegegenständen."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Dragon Shelter Erkundungs-Guide",
+          "description": "Ein Guide zum Erkunden der Fantasy-Welt, zum Entdecken magischer Biome, zum Retten von Streunern und zum Sammeln der Ressourcen außerhalb deiner Farm.",
+          "href": "/guide/dragon-shelter-walkthrough",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Biome",
+              "detail": "Erkunde sonnige Wiesen, Felsenwälder, Obsidianbrüche und das Frostfall-Plateau."
+            },
+            {
+              "label": "Sammeln",
+              "detail": "Sammle wilde Kräuter, Pilze und seltene Pflanzen an Waldrändern und Flussufern."
+            },
+            {
+              "label": "Rettung",
+              "detail": "Rette verletzte Streuner und begleite ruhige Drachen zurück zu deinem Heiligtum."
+            },
+            {
+              "label": "Vorkommen",
+              "detail": "Baue Erz ab und fälle Holz an Vorkommen, die mit den Jahreszeiten nachwachsen."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Dragon Shelter Updates",
+          "description": "Ein chronologischer Abschnitt für offizielle Release-News, Gameplay-Updates, neue Inhalte, Trailer, Demo-Änderungen und Entwicklerankündigungen.",
+          "href": "/release/dragon-shelter-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Release",
+              "detail": "Dragon Shelter erschien am 24. September 2026 für PC und Steam."
+            },
+            {
+              "label": "Demo",
+              "detail": "Die kostenlose Demo führt in Farmen, Drachenpflege und den frühen Wiederaufbau des Heiligtums ein."
+            },
+            {
+              "label": "Patches",
+              "detail": "Folge den offiziellen Steam-Ankündigungen für Balance-Patches und neue Inhalte."
+            },
+            {
+              "label": "Trailer",
+              "detail": "Sieh dir den offiziellen Launch-Trailer an für einen Blick auf Drachen, Farmen und Stadtleben."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "description": "Schnelle Antworten auf die häufigsten Fragen zu Dragon Shelter.",
+      "items": [
+        {
+          "question": "Was ist Dragon Shelter?",
+          "answer": "Dragon Shelter ist ein gemütliches Fantasy-Farm- und Lebenssimulationsspiel für PC und Steam, entwickelt von Wild Forest Studio und veröffentlicht von Curve Games. Du baust eine vergessene Farm wieder auf, ziehst magische Drachengefährten groß, pflanzt Feldfrüchte an, kochst verzauberte Mahlzeiten, fertigst Gegenstände, erkundest Fantasy-Biome und hilfst einer tristen Stadt, wieder aufzublühen."
+        },
+        {
+          "question": "Wo kann ich Dragon Shelter spielen?",
+          "answer": "Dragon Shelter ist für PC über Steam erhältlich; das Spiel erschien am 24. September 2026. Nutze den offiziellen Steam-Store-Link auf dieser Seite, um den aktuellen Preis und die Systemanforderungen zu prüfen."
+        },
+        {
+          "question": "Wie zähme ich Drachen in Dragon Shelter?",
+          "answer": "Spüre den Lebensraum des Drachen während seines Aktivitätsfensters auf, biete elementar passenden Köder wie Glutpaprika für Feuerdrachen an, nähere dich langsam im Schritt, versorge Verletzungen mit Kräutersalbe und begleite den beruhigten Drachen zurück zu einem offenen Nest."
+        },
+        {
+          "question": "Was sollte ich zuerst in Dragon Shelter tun?",
+          "answer": "Beginne damit, ein kleines Beet zu roden und schnell wachsende Feldfrüchte wie Sonnenblatt-Weizen anzupflanzen, sammle Holz, Feuerstein und sauberes Wasser, zähme dann einen jungen Ernte-Drachen und baue eine Werkstatt und Lager, bevor du deine Farm erweiterst."
+        },
+        {
+          "question": "Hat Dragon Shelter Steam-Erfolge?",
+          "answer": "Ja, Dragon Shelter hat derzeit 23 Steam-Erfolge, die du beim Farmen, Kochen, Basteln, Erkunden der Biome und beim Wiederaufbau der Stadt freischalten kannst."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, Dragon Shelter zu meistern?",
+      "description": "Von deiner ersten Ernte bis zu einer blühenden Stadt voller Drachengefährten hält unser Community-Wiki kostenlose, aktuelle Guides für dich bereit.",
+      "primary": "Anfänger-Guide lesen",
+      "secondary": "Auf Steam spielen"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Dragon Shelter Guides: Walkthroughs, Tipps & Anfängerhilfe",
+    "overviewDescription": "Durchsuche jeden Dragon Shelter Guide im Wiki, vom vollständigen Anfänger-Walkthrough und den Farmgrundlagen bis zu Kochen, Brotherstellung und Überlebenstipps für die Anfangsphase."
+  },
+  "release": {
+    "overviewTitle": "Dragon Shelter Release-Datum, Demo & Trailer",
+    "overviewDescription": "Verfolge das Dragon Shelter Release-Datum für PC und Steam, prüfe die Demo-Verfügbarkeit und sieh dir den neuesten Dragon Shelter Trailer und Launch-Updates an."
+  },
+  "platforms": {
+    "overviewTitle": "Dragon Shelter Plattformen: PC, Switch, PS5, Xbox & mehr",
+    "overviewDescription": "Finde heraus, welche Plattformen Dragon Shelter unterstützt, darunter PC, Nintendo Switch, PS5, Xbox, Steam Deck und Mac, mit Einrichtungs- und Leistungshinweisen."
+  },
+  "mechanics": {
+    "overviewTitle": "Dragon Shelter Gameplay-Mechaniken erklärt",
+    "overviewDescription": "Verstehe die Gameplay-Systeme von Dragon Shelter wie Farmen, Kochen, Basteln, Romantik, Mehrspieler und Koop, mit klaren Erklärungen zu jeder Mechanik."
+  },
+  "dragons": {
+    "overviewTitle": "Dragon Shelter Drachen: Typen, Zucht & Zähmung",
+    "overviewDescription": "Erfahre alles über jeden Dragon Shelter Drachentyp, das Zähmen und Züchten von Drachen, den Einsatz von Drachenhelfern und die Aufzucht mächtiger Feuerdrachen in deinem Unterschlupf."
+  },
+  "community": {
+    "overviewTitle": "Dragon Shelter Community, Reviews & Preis",
+    "overviewDescription": "Lies Dragon Shelter Reviews, prüfe den aktuellen Preis und finde die Community-Hubs und Reddit-Diskussionen, in denen Spieler Builds und Tipps teilen."
+  },
+  "codes": {
+    "overviewTitle": "Dragon Shelter Codes & wie man sie einlöst",
+    "overviewDescription": "Hol dir die neuesten Dragon Shelter Codes, erfahre, wie du sie im Spiel einlöst, und wann neue Belohnungen und Gratisgeschenke hinzugefügt werden."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes ansehen",
+    "playOnRoblox": "Auf Steam spielen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Verwandte Lektüre",
+    "relatedGuides": "Verwandte Guides",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Startseite",
+    "noGuidesAvailable": "Noch keine Guides verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "Dragon Shelter Wiki",
+    "about": "Dragon Shelter Wiki ist ein unabhängiger, von Fans erstellter Guide-Hub zu Farmen, Drachenpflege, Kochrezepten, Basteln, Erkundung und Stadtwiederaufbau für neue und erfahrene Spieler gleichermaßen.",
+    "quickLinks": "Schnelllinks",
+    "guides": "Guides",
+    "legal": "Rechtliches",
+    "copyright": "2026 Dragon Shelter Wiki. Nicht mit Wild Forest Studio oder Curve Games verbunden.",
+    "description": "Gemütliches Fantasy-Farmen und Lebenssimulation mit magischen Drachengefährten auf PC / Steam.",
+    "playGame": "Dragon Shelter auf Steam spielen",
+    "officialDiscord": "Offizieller Discord",
+    "officialYoutube": "Offizielles YouTube",
+    "vvBuilder": "Steam-Community",
+    "beginnerGuide": "Anfänger-Guide",
+    "raceGuides": "Farm-Guide",
+    "bossGuides": "Drachenpflege-Guide",
+    "buildGuide": "Koch-Guide",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen"
+  }
+}
