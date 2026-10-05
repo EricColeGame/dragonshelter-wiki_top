@@ -7,22 +7,9 @@
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
-    "races": "Races",
-    "bosses": "Bosses",
-    "guides": "Guides",
-    "codes": "Codes",
-    "tierList": "Tier List",
-    "maps": "Maps",
-    "skills": "Skills",
-    "updates": "Updates",
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme",
-    "guide": "Guides",
-    "seafood": "Seafood & Recipes",
-    "upgrades": "Upgrades",
-    "gamepasses": "Gamepasses",
-    "community": "Community"
+    "toggleTheme": "Toggle theme"
   },
   "home": {
     "meta": {
@@ -344,19 +331,7 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {
-    "meta": {
-      "title": "Dragon Shelter Guides - Farming, Dragons & Recipes | Dragon Shelter Wiki",
-      "description": "Complete Dragon Shelter guides for farming, dragon care, cooking recipes, crafting, exploration, and town restoration."
-    },
-    "overviewTitle": "Dragon Shelter Guides",
-    "overviewDescription": "Complete guides for every system in Dragon Shelter, from your first crops and dragon companions to cooking, crafting, exploration, and town restoration.",
-    "body": "Dragon Shelter is a cozy fantasy farming and life-sim game where you restore a forgotten farm and help a gloomy town thrive again. Grow crops, raise magical dragon companions, cook enchanted meals, craft useful items, and explore fantasy biomes. Each system feeds into the next: better crops unlock better recipes, stronger dragon bonds unlock powerful farm perks, and completed town requests unlock new areas to explore. Use the guides below to plan your farm, care for your dragons, and restore the town at your own pace.",
-    "guidesTitle": "Dragon Shelter Guides",
-    "readMore": "Read more",
-    "new": "New",
-    "popular": "Popular"
-  },
+  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
