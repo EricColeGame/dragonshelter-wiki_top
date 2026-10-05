@@ -43,22 +43,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Learn the basics of restoring your farm, befriending dragons, and helping the town of Dragon Shelter thrive again."
+          "description": "Learn the core Dragon Shelter survival loop: build a sturdy shelter, manage hunger, thirst, and temperature, and secure timber, flint, and clean water before your first expedition."
         },
         {
           "number": "2",
-          "title": "Dragon Care & Bonding",
-          "description": "Feed, pet, and raise your dragon companions to unlock their magical farming abilities and perks."
+          "title": "Farming & Crops",
+          "description": "Till and fertilize your plots, rotate fast crops like Sunleaf Wheat, and let water and earth dragons automate irrigation, tilling, and soil enrichment."
         },
         {
           "number": "3",
-          "title": "Cooking & Recipes",
-          "description": "Grow ingredients and cook enchanted meals to complete town requests and earn rewards."
+          "title": "Dragon Taming & Care",
+          "description": "Scout each wild dragon's habitat, offer element-matched bait, tend its injuries, and escort it home to unlock smelting, watering, and growth perks."
         },
         {
           "number": "4",
-          "title": "Crafting & Exploration",
-          "description": "Gather materials, craft useful tools, and explore the fantasy biomes surrounding Dragon Shelter."
+          "title": "Crafting & Cooking",
+          "description": "Gather raw materials, upgrade workbenches and kitchen stations, then cook stamina-boosting meals and dragon treats for longer, more productive days."
         }
       ]
     },
@@ -66,73 +66,55 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Dragon Types",
+        "Farming",
+        "Cooking"
       ],
       "cards": [
         {
           "badge": "Beginner",
-          "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "title": "Dragon Shelter Beginner Guide",
+          "description": "Establish your shelter, gather timber and flint, and tame your first harvester dragon.",
+          "href": "/guide/dragon-shelter-beginner-guide"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "All Dragon Shelter Codes",
+          "description": "Working redemption codes, reward tiers, and step-by-step redemption help.",
+          "href": "/codes/dragon-shelter-codes"
+        },
+        {
+          "badge": "Popular",
+          "title": "Dragon Types & Abilities",
+          "description": "Every elemental dragon family, its farm specialty, habitat, and favorite feed.",
+          "href": "/dragons/dragon-shelter-dragon-types"
+        },
+        {
+          "badge": "Popular",
+          "title": "Dragon Shelter Farming Guide",
+          "description": "Crop cycles, soil management, and dragon-assisted irrigation for higher yields.",
+          "href": "/guide/dragon-shelter-farming-guide"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
-        },
-        {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Cooking Recipes & Stations",
+          "description": "Kitchen upgrades, ingredient sourcing, and stamina-boosting dishes.",
+          "href": "/guide/dragon-shelter-cooking-guide"
         },
         {
           "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Crafting Blueprints & Materials",
+          "description": "Workbench tiers, refining routes, and habitat recipes for your sanctuary.",
+          "href": "/mechanics/dragon-shelter-crafting"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Dragon Shelter?",
       "paragraphs": [
-        "Dragon Shelter is a cozy fantasy farming and life-sim game from Wild Forest Studio, published by Curve Games. You restore a forgotten farm, befriend and raise magical dragons, grow crops, cook enchanted meals, craft useful items, and help a gloomy town come back to life.",
-        "Whether you are hatching your first dragon, perfecting a recipe for a picky villager, or exploring distant fantasy biomes, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Dragon Shelter is a cozy fantasy farming and life-sim game from Wild Forest Studio, published by Curve Games. You restore a forgotten farm, befriend and raise magical dragon companions, grow crops, cook enchanted meals, craft tools and habitats, explore fantasy biomes, and help a gloomy town come back to life.",
+        "Every dragon belongs to an elemental family with its own farm specialty: water drakes irrigate whole crop grids, fire wyrms fire kilns and smelt ore, earth dragons till hard soil and break boulders, and arcane glimmer scales purify blighted ground. Matching the right companion to each workstation turns a neglected homestead into a self-sustaining sanctuary."
       ],
       "stats": [
         {
@@ -164,135 +146,209 @@
     },
     "explore": {
       "title": "Explore the Dragon Shelter Wiki",
-      "description": "Master your farm with essential farming guides, dragon care tips, cooking recipes, crafting databases, and town restoration strategies.",
+      "description": "Master Dragon Shelter with farming guides, dragon care tips, cooking recipes, crafting blueprints, resource routes, exploration help, and the latest updates.",
       "modules": [
         {
           "order": 1,
-          "name": "Beginner Guide: Your First Days on the Farm",
-          "description": "Step-by-step walkthrough covering your first crops, tool basics, dragon egg hatching, and early town requests.",
+          "name": "Dragon Shelter Beginner Guide",
+          "description": "A practical starter guide covering the first farm tasks, shelter construction, resource gathering, dragon taming, crafting, cooking, and early town requests.",
           "href": "/guide/dragon-shelter-beginner-guide",
-          "displayType": "feature-cards",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Clear your overgrown farm and plant your first seeds"
+              "label": "1",
+              "detail": "Plant fast crops like Sunleaf Wheat to fund your first tool and shelter upgrades"
             },
             {
-              "label": "Step 2",
-              "detail": "Hatch and name your first dragon companion"
+              "label": "2",
+              "detail": "Tame a juvenile harvester dragon with matching forage before exploring dangerous zones"
             },
             {
-              "label": "Step 3",
-              "detail": "Complete early town requests for coins and blueprints"
+              "label": "3",
+              "detail": "Build a workshop, storage chests, and a fire pit before nocturnal threats arrive"
+            },
+            {
+              "label": "4",
+              "detail": "Complete town bulletin requests for coins, blueprints, and villager trust"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Farming & Crops Guide",
-          "description": "Season-by-season crop calendar, soil and watering tips, and the most profitable plants to grow.",
-          "href": "/guide/dragon-shelter-farming-guide",
-          "displayType": "feature-cards",
+          "name": "Dragon Shelter Dragons Guide",
+          "description": "A dedicated guide to the dragon companions, ranking their elemental abilities, farm assistance, habitat needs, and bonding requirements.",
+          "href": "/dragons/dragon-shelter-dragon-types",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Plant fast-growing starter crops to fund early upgrades"
+              "label": "S",
+              "detail": "Glimmer Scale - purifies blighted soil and boosts crop mutation rates"
             },
             {
-              "label": "Priority 2",
-              "detail": "Unlock sprinklers and fertiliser for higher yields"
+              "label": "A",
+              "detail": "Bramble Sprout - speeds plant maturation and plows hard earth"
             },
             {
-              "label": "Priority 3",
-              "detail": "Save rare seeds for high-value town requests"
+              "label": "B",
+              "detail": "Cinder Wyrmling - fires kilns, smelts ore, and clears dry brush"
+            },
+            {
+              "label": "C",
+              "detail": "Puddle Drake - automates multi-tile crop watering and opens waterways"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Dragon Care & Bonding",
-          "description": "How to feed, pet, and raise each dragon companion to unlock its magical farming perks.",
-          "href": "/guide/dragon-shelter-dragon-care",
-          "displayType": "tier-grid",
+          "name": "Dragon Shelter Farming Guide",
+          "description": "A farming-focused section covering soil preparation, crop rotation, seasonal planning, and how dragon abilities support everyday farm work.",
+          "href": "/guide/dragon-shelter-farming-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "S",
-              "detail": "Emberwing - speeds up crop growth across the farm"
+              "label": "1",
+              "detail": "Till compacted earth and spread compost or elemental ash to raise soil fertility"
             },
             {
-              "label": "A",
-              "detail": "Mossback - improves soil quality and yield"
+              "label": "2",
+              "detail": "Water morning and evening, or assign a Water Drake to irrigate surrounding grids"
             },
             {
-              "label": "B",
-              "detail": "Dewscale - waters nearby crops automatically"
+              "label": "3",
+              "detail": "Rotate fast staples such as Sunleaf Wheat with high-value Star Bloom harvests"
             },
             {
-              "label": "C",
-              "detail": "Pebbletail - reliable starter companion"
+              "label": "4",
+              "detail": "Replenish soil with a cover crop after two intensive planting cycles"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Cooking & Recipes",
-          "description": "Complete recipe list, ingredient sources, and the best enchanted meals for town requests and gifts.",
-          "href": "/guide/dragon-shelter-cooking-recipes",
-          "displayType": "feature-cards",
+          "name": "Dragon Shelter Cooking Recipes",
+          "description": "A recipe and station reference covering ingredients, kitchen upgrades, stamina buffs, and the dragon treats used for bonding.",
+          "href": "/guide/dragon-shelter-cooking-guide",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Learn the staple recipes every villager requests"
+              "label": "Campfire Hearth",
+              "detail": "15 Stone and 10 Wood - basic Roasted Berries, Grilled Fish, and Boiled Tubers."
             },
             {
-              "label": "Priority 2",
-              "detail": "Pair dragon-grown ingredients for bonus effects"
+              "label": "Stone Bake Oven",
+              "detail": "40 Hardened Clay, 20 Stone, 2 Bronze Bars - bakes Herb Bread, Honey Tarts, and Savory Pot Pies."
             },
             {
-              "label": "Priority 3",
-              "detail": "Cook seasonal feasts during town festivals"
+              "label": "Iron Range Cooktop",
+              "detail": "15 Iron Bars, 10 Smooth Stone, 1 Dragon Embers - simmers Dragon Stew and Fortified Broth."
+            },
+            {
+              "label": "Alchemical Cauldron",
+              "detail": "8 Copper Ingots, 4 Mystic Sap, 2 Spark Gems - infuses Flame Nibbles and Glacial Puddings."
             }
           ]
         },
         {
           "order": 5,
-          "name": "Crafting & Resources",
-          "description": "Gather wood, ore, and magical essences, then craft tools, farm upgrades, and dragon care items.",
-          "href": "/guide/dragon-shelter-crafting",
-          "displayType": "feature-cards",
+          "name": "Dragon Shelter Crafting Guide",
+          "description": "A crafting reference covering workbench tiers, material refining, station fuel, and the habitat recipes needed to expand your sanctuary.",
+          "href": "/mechanics/dragon-shelter-crafting",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Craft better tools to gather resources faster"
+              "label": "Workbench",
+              "detail": "The Basic Workbench crafts rough planks, stone tools, and simple fences after the tutorial quest."
             },
             {
-              "label": "Priority 2",
-              "detail": "Build farm upgrades that automate daily chores"
+              "label": "Kiln",
+              "detail": "The Charcoal Kiln burns hardwood logs into fuel and cures ceramic tiles for later builds."
             },
             {
-              "label": "Priority 3",
-              "detail": "Save rare essences for dragon bond items"
+              "label": "Smelter",
+              "detail": "The Bloomery and Smelter turn copper, iron, and gold ore into usable ingots."
+            },
+            {
+              "label": "Alembic",
+              "detail": "The Herbalist Alembic brews health salves and element-enriching dragon treats."
+            },
+            {
+              "label": "Loom",
+              "detail": "The Enchanted Loom weaves insulated bedding, harness wraps, and weather tarps."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Exploration & Town Restoration",
-          "description": "Explore fantasy biomes, discover rare resources, and complete town projects to bring Dragon Shelter back to life.",
-          "href": "/guide/dragon-shelter-town-restoration",
-          "displayType": "feature-cards",
+          "name": "Dragon Shelter Resources Guide",
+          "description": "A practical resource reference showing important materials, where they are gathered, and how they feed farming, cooking, crafting, and restoration.",
+          "href": "/guide/dragon-shelter-tips",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Unlock new biomes by completing town requests"
+              "label": "Timber",
+              "detail": "Hardwood and softwood logs are chopped from surface nodes and refined into planks and charcoal."
             },
             {
-              "label": "Step 2",
-              "detail": "Gather biome-exclusive seeds and materials"
+              "label": "Ore",
+              "detail": "Copper, iron, and gold ore require upgraded picks and feed every smelter recipe."
             },
             {
-              "label": "Step 3",
-              "detail": "Restore every town building to attract new villagers"
+              "label": "Flora",
+              "detail": "Foraged herbs, berries, and mystical sap supply cooking, alchemy, and dragon treats."
+            },
+            {
+              "label": "Draconic",
+              "detail": "Shed scales, molten embers, and wyrm glands come from cared-for dragons and craft care items."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Dragon Shelter Exploration Guide",
+          "description": "A guide to exploring the fantasy world, discovering magical biomes, rescuing strays, and gathering the resources hidden outside your farm.",
+          "href": "/guide/dragon-shelter-walkthrough",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Biomes",
+              "detail": "Explore sunlit meadows, crag woodlands, obsidian faults, and the frostfall plateau."
+            },
+            {
+              "label": "Foraging",
+              "detail": "Forage wild herbs, mushrooms, and rare flora along forest fringes and riverbanks."
+            },
+            {
+              "label": "Rescue",
+              "detail": "Rescue injured strays and escort calm dragons back to your sanctuary."
+            },
+            {
+              "label": "Nodes",
+              "detail": "Mine ore and chop timber at nodes that respawn with the changing seasons."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Dragon Shelter Updates",
+          "description": "A chronological section for official release news, gameplay updates, new content, trailers, demo changes, and developer announcements.",
+          "href": "/release/dragon-shelter-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Release",
+              "detail": "Dragon Shelter launched on PC and Steam on September 24, 2026."
+            },
+            {
+              "label": "Demo",
+              "detail": "The free demo introduces farming, dragon care, and early sanctuary restoration."
+            },
+            {
+              "label": "Patches",
+              "detail": "Follow official Steam announcements for balance patches and new content."
+            },
+            {
+              "label": "Trailer",
+              "detail": "Watch the official launch trailer for a look at dragons, farming, and town life."
             }
           ]
         }
@@ -308,19 +364,19 @@
         },
         {
           "question": "Where can I play Dragon Shelter?",
-          "answer": "Dragon Shelter is available on PC via Steam. Use the official Steam store link on this page to view the latest price and system requirements."
+          "answer": "Dragon Shelter is available on PC via Steam, with the game released on September 24, 2026. Use the official Steam store link on this page to check the latest price and system requirements."
         },
         {
-          "question": "How many Steam achievements are there?",
-          "answer": "Dragon Shelter currently has 23 Steam achievements to unlock as you farm, cook, craft, explore, and restore the town."
+          "question": "How do I tame dragons in Dragon Shelter?",
+          "answer": "Scout the dragon's habitat during its active window, offer element-matched bait such as Ember Peppers for fire drakes, approach at a slow walk, tend any injuries with herbal salve, and escort the calm dragon back to an open nest."
         },
         {
-          "question": "Which languages are supported?",
-          "answer": "The game currently supports English, Simplified Chinese, German, Russian, and French."
+          "question": "What should I do first in Dragon Shelter?",
+          "answer": "Start by clearing a small plot and planting fast crops like Sunleaf Wheat, gather timber, flint, and clean water, then tame a juvenile harvester dragon and build a workshop and storage before expanding your farm."
         },
         {
-          "question": "How do I raise dragon companions?",
-          "answer": "Feed, pet, and care for each dragon daily to raise its bond level. Higher bonds unlock magical farming perks such as faster crop growth, better soil, and automatic watering."
+          "question": "Does Dragon Shelter have Steam achievements?",
+          "answer": "Yes, Dragon Shelter currently has 23 Steam achievements to unlock as you farm, cook, craft, explore the biomes, and restore the town."
         }
       ]
     },
