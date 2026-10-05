@@ -1,9 +1,9 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
+    "name": "Dragon Shelter Wiki",
+    "shortName": "Dragon Shelter",
+    "tagline": "Farming, Dragons, Recipes & Town Restoration",
+    "description": "Dragon Shelter Wiki with farming guides, dragon care, cooking recipes, crafting tips, exploration help, town restoration, and the latest PC game updates.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
@@ -26,22 +26,22 @@
   },
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Dragon Shelter Wiki - Farming, Dragons & Recipes",
+      "description": "Dragon Shelter Wiki with farming guides, dragon care, cooking recipes, crafting tips, exploration help, town restoration, and the latest PC game updates."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "Cozy Fantasy Dragon Farming Sim",
+      "title": "Dragon Shelter Wiki",
+      "description": "Restore a forgotten farm, raise magical dragon companions, grow crops, cook enchanted meals, explore fantasy biomes, and help a gloomy town thrive again.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "Sep 24, 2026 Release",
+        "23 Steam Achievements",
+        "257 Steam Reviews",
+        "5 Supported Languages"
       ],
-      "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
-      "tertiaryCta": "Active Codes",
+      "primaryCta": "Play on Steam",
+      "secondaryCta": "Beginner Guide",
+      "tertiaryCta": "Dragon Care Guide",
       "videoLabel": "Official media"
     },
     "updates": {
@@ -51,27 +51,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your Dragon Shelter Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the basics of restoring your farm, befriending dragons, and helping the town of Dragon Shelter thrive again."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Dragon Care & Bonding",
+          "description": "Feed, pet, and raise your dragon companions to unlock their magical farming abilities and perks."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Cooking & Recipes",
+          "description": "Grow ingredients and cook enchanted meals to complete town requests and earn rewards."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Crafting & Exploration",
+          "description": "Gather materials, craft useful tools, and explore the fantasy biomes surrounding Dragon Shelter."
         }
       ]
     },
@@ -142,174 +142,170 @@
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is Dragon Shelter?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Dragon Shelter is a cozy fantasy farming and life-sim game from Wild Forest Studio, published by Curve Games. You restore a forgotten farm, befriend and raise magical dragons, grow crops, cook enchanted meals, craft useful items, and help a gloomy town come back to life.",
+        "Whether you are hatching your first dragon, perfecting a recipe for a picky villager, or exploring distant fantasy biomes, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Wild Forest Studio"
+        },
+        {
+          "label": "Publisher",
+          "value": "Curve Games"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "PC / Steam"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Cozy Farming Sim"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Release Date",
+          "value": "Sep 24, 2026"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
-        },
-        {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Steam Achievements",
+          "value": "23"
         }
       ],
-      "cta": "Explore All Guides"
+      "cta": "Read the Beginner Guide"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore the Dragon Shelter Wiki",
+      "description": "Master your farm with essential farming guides, dragon care tips, cooking recipes, crafting databases, and town restoration strategies.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Beginner Guide: Your First Days on the Farm",
+          "description": "Step-by-step walkthrough covering your first crops, tool basics, dragon egg hatching, and early town requests.",
+          "href": "/guide/dragon-shelter-beginner-guide",
+          "displayType": "feature-cards",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "Step 1",
+              "detail": "Clear your overgrown farm and plant your first seeds"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "Step 2",
+              "detail": "Hatch and name your first dragon companion"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "Step 3",
+              "detail": "Complete early town requests for coins and blueprints"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
+          "name": "Farming & Crops Guide",
+          "description": "Season-by-season crop calendar, soil and watering tips, and the most profitable plants to grow.",
+          "href": "/guide/dragon-shelter-farming-guide",
           "displayType": "feature-cards",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Priority 1",
+              "detail": "Plant fast-growing starter crops to fund early upgrades"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Priority 2",
+              "detail": "Unlock sprinklers and fertiliser for higher yields"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Priority 3",
+              "detail": "Save rare seeds for high-value town requests"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
+          "name": "Dragon Care & Bonding",
+          "description": "How to feed, pet, and raise each dragon companion to unlock its magical farming perks.",
+          "href": "/guide/dragon-shelter-dragon-care",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "S",
+              "detail": "Emberwing - speeds up crop growth across the farm"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "A",
+              "detail": "Mossback - improves soil quality and yield"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "B",
+              "detail": "Dewscale - waters nearby crops automatically"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "C",
+              "detail": "Pebbletail - reliable starter companion"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
+          "name": "Cooking & Recipes",
+          "description": "Complete recipe list, ingredient sources, and the best enchanted meals for town requests and gifts.",
+          "href": "/guide/dragon-shelter-cooking-recipes",
           "displayType": "feature-cards",
           "highlights": [
             {
               "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "detail": "Learn the staple recipes every villager requests"
             },
             {
               "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "detail": "Pair dragon-grown ingredients for bonus effects"
             },
             {
               "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "detail": "Cook seasonal feasts during town festivals"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
+          "name": "Crafting & Resources",
+          "description": "Gather wood, ore, and magical essences, then craft tools, farm upgrades, and dragon care items.",
+          "href": "/guide/dragon-shelter-crafting",
           "displayType": "feature-cards",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Priority 1",
+              "detail": "Craft better tools to gather resources faster"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Priority 2",
+              "detail": "Build farm upgrades that automate daily chores"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Priority 3",
+              "detail": "Save rare essences for dragon bond items"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
+          "name": "Exploration & Town Restoration",
+          "description": "Explore fantasy biomes, discover rare resources, and complete town projects to bring Dragon Shelter back to life.",
+          "href": "/guide/dragon-shelter-town-restoration",
           "displayType": "feature-cards",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Step 1",
+              "detail": "Unlock new biomes by completing town requests"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Step 2",
+              "detail": "Gather biome-exclusive seeds and materials"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Step 3",
+              "detail": "Restore every town building to attract new villagers"
             }
           ]
         }
@@ -317,46 +313,46 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "description": "Quick answers to the most common questions about Dragon Shelter.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Dragon Shelter?",
+          "answer": "Dragon Shelter is a cozy fantasy farming and life-sim game for PC and Steam, developed by Wild Forest Studio and published by Curve Games. You restore a forgotten farm, raise magical dragon companions, grow crops, cook enchanted meals, craft items, explore fantasy biomes, and help a gloomy town thrive again."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Where can I play Dragon Shelter?",
+          "answer": "Dragon Shelter is available on PC via Steam. Use the official Steam store link on this page to view the latest price and system requirements."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How many Steam achievements are there?",
+          "answer": "Dragon Shelter currently has 23 Steam achievements to unlock as you farm, cook, craft, explore, and restore the town."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Which languages are supported?",
+          "answer": "The game currently supports English, Simplified Chinese, German, Russian, and French."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "How do I raise dragon companions?",
+          "answer": "Feed, pet, and care for each dragon daily to raise its bond level. Higher bonds unlock magical farming perks such as faster crop growth, better soil, and automatic watering."
         }
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
+      "title": "Ready to Master Dragon Shelter?",
+      "description": "From your first crop to a thriving town full of dragon companions, our community wiki has you covered with free, up-to-date guides.",
       "primary": "Read the Beginner Guide",
-      "secondary": "Play on Roblox"
+      "secondary": "Play on Steam"
     }
   },
   "bosses": {
     "meta": {
-      "title": "Bosses — Complete Guide & Walkthrough | My Seafood Stand Wiki",
-      "description": "Complete boss guides for My Seafood Stand — all bosses from tutorial Gelum to endgame encounters with strategies, drops, and respawn timers."
+      "title": "Dragon Shelter Guides - Farming, Dragons & Recipes | Dragon Shelter Wiki",
+      "description": "Complete Dragon Shelter guides for farming, dragon care, cooking recipes, crafting, exploration, and town restoration."
     },
-    "overviewTitle": "Bosses Overview",
-    "overviewDescription": "Complete guides for every boss encounter in My Seafood Stand 13 bosses from the tutorial knight Gelum to endgame encounters like the Gelid Dweller and Gauntlet challenges.",
-    "body": "Bosses in My Seafood Stand serve as skill gates and progression milestones. Some, like Gelum, teach you the combat fundamentals during the tutorial. Others, such as the Shikai Spirit and Resurreccion Spirit, are inner-world encounters tied directly to your race's power unlock. Area bosses like Dragonfly, King Croc, and Securis guard access to new zones and rewards. Recent additions include the Rogue Commander with his Minions, the ice-themed The Everfrosted, and four brand new endgame bosses: The Gelid Dweller, Cinder of the Broken Sky, Devourer of Hosts, and the Wandering Swordsman (Junichiro). Each boss has distinct attack patterns and telegraphed moves you need to learn. Use the guides below to prepare for every fight.",
-    "guidesTitle": "Bosses Guides",
+    "overviewTitle": "Dragon Shelter Guides",
+    "overviewDescription": "Complete guides for every system in Dragon Shelter, from your first crops and dragon companions to cooking, crafting, exploration, and town restoration.",
+    "body": "Dragon Shelter is a cozy fantasy farming and life-sim game where you restore a forgotten farm and help a gloomy town thrive again. Grow crops, raise magical dragon companions, cook enchanted meals, craft useful items, and explore fantasy biomes. Each system feeds into the next: better crops unlock better recipes, stronger dragon bonds unlock powerful farm perks, and completed town requests unlock new areas to explore. Use the guides below to plan your farm, care for your dragons, and restore the town at your own pace.",
+    "guidesTitle": "Dragon Shelter Guides",
     "readMore": "Read more",
     "new": "New",
     "popular": "Popular"
@@ -366,7 +362,7 @@
     "activeCodes": "Active Codes",
     "updated": "Updated",
     "viewAllCodes": "View all codes",
-    "playOnRoblox": "Play on Roblox",
+    "playOnRoblox": "Play on Steam",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
     "nextSteps": "Next Steps",
@@ -379,21 +375,21 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "Dragon Shelter Wiki",
+    "about": "Dragon Shelter Wiki is an independent fan-built guide hub covering farming, dragon care, cooking recipes, crafting, exploration, and town restoration for new and veteran players alike.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
+    "copyright": "2026 Dragon Shelter Wiki. Not affiliated with Wild Forest Studio or Curve Games.",
+    "description": "Cozy fantasy farming and life-sim with magical dragon companions on PC / Steam.",
+    "playGame": "Play Dragon Shelter on Steam",
     "officialDiscord": "Official Discord",
     "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "vvBuilder": "Steam Community",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "raceGuides": "Farming Guide",
+    "bossGuides": "Dragon Care Guide",
+    "buildGuide": "Cooking Guide",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
