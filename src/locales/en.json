@@ -9,7 +9,14 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "release": "Release",
+    "platforms": "Platforms",
+    "mechanics": "Mechanics",
+    "dragons": "Dragons",
+    "community": "Community",
+    "codes": "Codes"
   },
   "home": {
     "meta": {
@@ -387,7 +394,34 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Dragon Shelter Guides: Walkthroughs, Tips & Beginner Help",
+    "overviewDescription": "Browse every Dragon Shelter guide on the wiki, from a full beginner walkthrough and farming basics to cooking, bread making, and early-game survival tips."
+  },
+  "release": {
+    "overviewTitle": "Dragon Shelter Release Date, Demo & Trailer",
+    "overviewDescription": "Track the Dragon Shelter release date on PC and Steam, check demo availability, and watch the latest Dragon Shelter trailer and launch updates."
+  },
+  "platforms": {
+    "overviewTitle": "Dragon Shelter Platforms: PC, Switch, PS5, Xbox & More",
+    "overviewDescription": "Find out which platforms Dragon Shelter supports, including PC, Nintendo Switch, PS5, Xbox, Steam Deck, and Mac, with setup and performance notes."
+  },
+  "mechanics": {
+    "overviewTitle": "Dragon Shelter Gameplay Mechanics Explained",
+    "overviewDescription": "Understand Dragon Shelter gameplay systems such as farming, cooking, crafting, romance, multiplayer, and co-op, with clear explanations for each mechanic."
+  },
+  "dragons": {
+    "overviewTitle": "Dragon Shelter Dragons: Types, Breeding & Taming",
+    "overviewDescription": "Learn about every Dragon Shelter dragon type, how to tame and breed dragons, use dragon helpers, and raise powerful fire dragons in your shelter."
+  },
+  "community": {
+    "overviewTitle": "Dragon Shelter Community, Reviews & Price",
+    "overviewDescription": "Read Dragon Shelter reviews, check the current price, and find the community hubs and Reddit discussions where players share builds and tips."
+  },
+  "codes": {
+    "overviewTitle": "Dragon Shelter Codes & How to Redeem Them",
+    "overviewDescription": "Get the latest Dragon Shelter codes, learn how to redeem them in-game, and find out when new rewards and freebies are added."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
